@@ -33,7 +33,7 @@
 
 🔹 **Dynamic Portfolio Generator**  
 _A Java + Spring Boot based application that allows users to register, log in, and create their own dynamic portfolio. Features include resume builder, template selection, and PDF download._  
-➡️ [View Repository](https://github.com/NAGAROOPINIBATTU/dynamic-portfolio-generator)  
+➡️ [View Repository]([https://github.com/NAGAROOPINIBATTU/dynamic-portfolio-generator](https://github.com/NagaRoopini/Dynamic-Portfolio))  
 
 🔹 **MathPlay**  
 _A fun and interactive math-based game designed to improve problem-solving skills while keeping learning engaging. Built using HTML, CSS, JavaScript._  
