@@ -34,8 +34,6 @@ _A fun and interactive math-based game designed to improve problem-solving skill
 ### 🌟 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaRoopini&layout=compact&theme=tokyonight)
 
-### 👀 Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=NagaRoopini&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
