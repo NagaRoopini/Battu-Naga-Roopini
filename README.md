@@ -1,7 +1,25 @@
+<!-- Banner or Animated GIF at the Top -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Animated Girl GIF">
+</p>
+
+<h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
+<h3 align="center">Aspiring IT Engineer | 💻 Developer | ☁️ Cloud & AI Enthusiast</h3>
+
+---
+
 # 👋 Hi, I'm Battu Naga Roopini!
 
 ### 💻 About Me
 -  A passionate B.Tech Information Technology student, graduating in 2026.Participated in hands-on projects and internships at reputed organizations
+---
+
+## 📚 Education
+
+- 🎓 **vvitu**B.Tech in Information Technology — *Percentage: 91.7%* (2022–2026)  
+- 🏫 **Narayana Junior College** — *Percentage: 91.7%* (2020–2022)  
+- 🏫 **Krishna Chaitanya EM School** — *Percentage: 96.5%* (2019–2020)  
+
 ---
 
 ### 🚀 Skills
