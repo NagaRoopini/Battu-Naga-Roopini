@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Roopini!
+# 👋 Hi, I'm Battu Naga Roopini!
 
 ### 💻 About Me
 -  A passionate B.Tech Information Technology student, graduating in 2026.Participated in hands-on projects and internships at reputed organizations
@@ -23,14 +23,19 @@ _A fun and interactive math-based game designed to improve problem-solving skill
 
 ---
 
+---
+
 ### 📊 GitHub Stats
-![Roopini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAGAROOPINIBATTU&show_icons=true&theme=radical)
+![Roopini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagaRoopini&show_icons=true&theme=radical)
 
 ### 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAGAROOPINIBATTU&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagaRoopini&theme=dark)
 
 ### 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGAROOPINIBATTU&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaRoopini&layout=compact&theme=tokyonight)
+
+### 👀 Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=NagaRoopini&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
